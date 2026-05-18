@@ -78,16 +78,7 @@ Aplicativo mobile para **controle de tarefas / agenda de estudos**: o usuário a
 
 ## Integrantes
 
-_(Preencha com os nomes da equipe ou seu nome, se for individual.)_
-
----
-
-## Publicação no GitHub, slides e evidências
-
-Esta etapa é manual:
-
-1. Crie um repositório vazio no GitHub e envie o conteúdo da pasta `meu-app` (ou a raiz que contiver o projeto).
-2. Não commite o arquivo `.env` (ele está no `.gitignore`).
-3. Tire **prints** das telas principais para os slides (8–12 slides, conforme a folha avaliativa).
-4. Inclua **prints do Back4App** com a classe `Tarefa` e linhas de dados gravados pelo app.
-5. Na apresentação, demonstre **cadastro, listagem, edição, exclusão** e explique o fluxo do código (serviços + telas).
+- Calos
+- Kauã Victor
+- Pedro Gabriel
+- Guilhere P
